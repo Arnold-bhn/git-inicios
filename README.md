@@ -1,0 +1,3 @@
+# git-inicios
+Iniciando git
+Este es un proyecto de prueba con git
